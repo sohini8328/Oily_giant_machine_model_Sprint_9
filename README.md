@@ -34,7 +34,7 @@ Prequisites: This is an example of software and how to install them. VS Code
 
 Installation:
 
-Clone the repo: gh repo clone sohini8328/Oily_giant_machine_model_Sprint_9
+Clone the repo: https://github.com/sohini8328/Oily_giant_machine_model_Sprint_9.git
 
 
 
